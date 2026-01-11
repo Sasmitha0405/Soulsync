@@ -12,5 +12,4 @@ An AI-powered mood-based music and video recommendation system.
 ### Features
 - Detects user mood from text
 - Recommends music videos
-- Save favorite videos
 - Clean modern UI
